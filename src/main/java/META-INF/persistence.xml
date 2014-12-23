@@ -9,9 +9,9 @@
 		
 		<properties>
 			<property name="javax.persistence.jdbc.url" 
-				value="jdbc:mysql://localhost/ebookjsf" />
+				value="jdbc:mysql://localhost/test" />
 			<property name="javax.persistence.jdbc.user" value="root" />
-			<property name="javax.persistence.jdbc.password" value="algaworks" />
+			<property name="javax.persistence.jdbc.password" value="2563" />
 			<property name="javax.persistence.jdbc.driver" 
 				value="com.mysql.jdbc.Driver" />
 			
